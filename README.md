@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Riya Vyas
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning HTML & CSS.
+- 🌱 I’m currently working in react.js
 - 📫 How to reach me- vyasriya990@gmail.com
 
 <!---
